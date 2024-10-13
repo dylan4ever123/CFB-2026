@@ -1140,27 +1140,28 @@
     },
     {
       "confTeams" : [
+
         {
-          "abbreviation" : "ND",
-          "prestige" : "87",
-          "hexColor" : "#00002D",
+          "abbreviation" : "NMSU",
+          "prestige" : "55",
+          "hexColor" : "#4B0000",
           "rival" : "UL",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2024",
-            "age" : "56",
-            "ratOff" : "81",
-            "cumulativePrestige" : "2",
-            "ratDef" : "74",
+            "age" : "50",
+            "ratOff" : "63",
+            "cumulativePrestige" : "5",
+            "ratDef" : "75",
             "homeState" : "Mississippi",
-            "ratPot" : "91",
-            "ratTalent" : "65",
-            "baselinePrestige" : "80",
-            "name" : "Marcus Freeman",
+            "ratPot" : "66",
+            "ratTalent" : "73",
+            "baselinePrestige" : "65",
+            "name" : "Tony Sanchez",
             "contractYear" : "1"
           },
-          "name" : "Notre Dame Fightin Irish",
-          "state" : "Indiana"
+          "name" : "New Mexico State Aggies",
+          "state" : "New Mexico"
         },
         {
           "abbreviation" : "CIN",
@@ -1210,7 +1211,7 @@
           "abbreviation" : "UL",
           "prestige" : "84",
           "hexColor" : "#FF0000",
-          "rival" : "ND",
+          "rival" : "NMSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2024",
@@ -2526,28 +2527,7 @@
           "state" : "California"
         },
 
-        {
-          "abbreviation" : "NMSU",
-          "prestige" : "55",
-          "hexColor" : "#4B0000",
-          "rival" : "NM",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "50",
-            "ratOff" : "63",
-            "cumulativePrestige" : "5",
-            "ratDef" : "75",
-            "homeState" : "Mississippi",
-            "ratPot" : "66",
-            "ratTalent" : "73",
-            "baselinePrestige" : "65",
-            "name" : "Tony Sanchez",
-            "contractYear" : "1"
-          },
-          "name" : "New Mexico State Aggies",
-          "state" : "New Mexico"
-        },
+
 {
           "abbreviation" : "STAN",
           "prestige" : "78",
@@ -2661,7 +2641,7 @@
         },
         {
           "abbreviation" : "BYU",
-          "prestige" : "80",
+          "prestige" : "85",
           "hexColor" : "#0A2765",
           "rival" : "VAN",
           "headCoach" : {
@@ -2703,11 +2683,33 @@
           "name" : "Ole Miss Rebels ",
           "state" : "Mississippi"
         },
+   {
+          "abbreviation" : "ND",
+          "prestige" : "95",
+          "hexColor" : "#00002D",
+          "rival" : "PUR",
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2024",
+            "age" : "56",
+            "ratOff" : "81",
+            "cumulativePrestige" : "2",
+            "ratDef" : "74",
+            "homeState" : "Mississippi",
+            "ratPot" : "91",
+            "ratTalent" : "65",
+            "baselinePrestige" : "80",
+            "name" : "Marcus Freeman",
+            "contractYear" : "1"
+          },
+          "name" : "Notre Dame Fightin Irish",
+          "state" : "Indiana"
+        },
         {
           "abbreviation" : "PUR",
           "prestige" : "80",
           "hexColor" : "#FF0031",
-          "rival" : "NMSU",
+          "rival" : "ND",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2024",
@@ -2727,7 +2729,7 @@
         }
       ],
       "confFullName" : "Conference America",
-      "confPrestige" : "60",
+      "confPrestige" : "80",
       "confName" : "CAU"
     }
   ],
